@@ -27,7 +27,7 @@ Facial Landmark Detection using dlib
 
 Eye Aspect Ratio (EAR) computation
 
-Machine Learning (optional): CNN-based eye state classification (open/closed)
+Machine Learning : CNN-based eye state classification (open/closed)
 
 Multithreading for smoother video processing
 
