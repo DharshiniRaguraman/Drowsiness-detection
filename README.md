@@ -67,15 +67,13 @@ drowsiness-detection/
 
 │
 
-├── drowsiness_detection.py
+├── drowsiness_detection_system.py
 
-├── shape_predictor_68_face_landmarks.dat
+├── drowsiness_detection_model.py
 
-├── alarm.wav
+├── drowsiness_detection_model.h5
 
-├── README.md
-
-└── requirements.txt
+└── README.md
 
 
 ## 📊 Customization
