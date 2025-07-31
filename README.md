@@ -73,6 +73,8 @@ drowsiness-detection/
 
 ├── drowsiness_detection_model.h5
 
+├── requirements.txt
+
 └── README.md
 
 
