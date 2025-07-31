@@ -65,13 +65,9 @@ shape_predictor_68_face_landmarks.dat file (download from dlib’s official sour
 
 drowsiness-detection/
 
-│
-
 ├── drowsiness_detection_system.py
 
 ├── drowsiness_detection_model.py
-
-├── drowsiness_detection_model.h5
 
 ├── requirements.txt
 
